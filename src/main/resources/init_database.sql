@@ -1,0 +1,6 @@
+CREATE DATABASE sinodfs DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+DROP TABLE IF EXISTS t_user;
+CREATE TABLE t_user (
+
+)
